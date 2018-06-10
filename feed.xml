@@ -1,15 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://software-ethics-casebook.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://software-ethics-casebook.github.io//" rel="alternate" type="text/html" /><updated>2018-04-12T18:10:45+02:00</updated><id>https://software-ethics-casebook.github.io//</id><title type="html">The Software Ethics Casebook</title><subtitle>Write an awesome description for your new site here.</subtitle><entry><title type="html">Googlers letter against warfare technology</title><link href="https://software-ethics-casebook.github.io//googlers-letter-against-warfare-technology" rel="alternate" type="text/html" title="Googlers letter against warfare technology" /><published>2018-04-12T13:30:00+02:00</published><updated>2018-04-12T13:30:00+02:00</updated><id>https://software-ethics-casebook.github.io//googlers-letter-against-warfare-technology</id><content type="html" xml:base="https://software-ethics-casebook.github.io//googlers-letter-against-warfare-technology">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://software-ethics-casebook.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://software-ethics-casebook.github.io//" rel="alternate" type="text/html" /><updated>2018-06-10T12:57:55+02:00</updated><id>https://software-ethics-casebook.github.io//</id><title type="html">The Software Ethics Casebook</title><subtitle>Write an awesome description for your new site here.</subtitle><entry><title type="html">Never Again pledge: against databases to facilitate ethnic or religious targeting</title><link href="https://software-ethics-casebook.github.io//never-again-pledge" rel="alternate" type="text/html" title="Never Again pledge: against databases to facilitate ethnic or religious targeting" /><published>2018-05-06T00:30:00+02:00</published><updated>2018-05-06T00:30:00+02:00</updated><id>https://software-ethics-casebook.github.io//never-again-pledge</id><content type="html" xml:base="https://software-ethics-casebook.github.io//never-again-pledge">&lt;p&gt;NeverAgain.tech is a pledge by US tech workers to work against the Trump administration’s proposed data collection policies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We, the undersigned, are employees of tech organizations and companies based in the United States. We are engineers, designers, business executives, and others whose jobs include managing or processing data about people. We are choosing to stand in solidarity with Muslim Americans, immigrants, and all people whose lives and livelihoods are threatened by the incoming administration’s proposed data collection policies. We refuse to build a database of people based on their Constitutionally-protected religious beliefs. We refuse to facilitate mass deportations of people the government believes to be undesirable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;source&quot;&gt;Source&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neveragain.tech/&quot;&gt;https://neveragain.tech/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theintercept.com/2016/12/02/of-8-tech-companies-only-twitter-says-it-would-refuse-to-help-build-muslim-registry-for-trump/&quot;&gt;Of Nine Tech Companies, Only Twitter Says It Would Refuse To Help Build Muslim Registry For Trump&lt;/a&gt;. &lt;em&gt;The Intercept&lt;/em&gt;. December 2, 2016. Retrieved June 7, 2018.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qz.com/874394/we-already-have-a-muslim-registry-its-called-facebook/&quot;&gt;We already have a Muslim registry. It’s called Facebook&lt;/a&gt;. &lt;em&gt;Quartz&lt;/em&gt;. December 30, 2016. Retreived June 7, 2018.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="position" /><category term="privacy" /><summary type="html">NeverAgain.tech is a pledge by US tech workers to work against the Trump administration’s proposed data collection policies.</summary></entry><entry><title type="html">Googlers against warfare technology (Project Maven)</title><link href="https://software-ethics-casebook.github.io//googlers-against-warfare-technology-project-maven" rel="alternate" type="text/html" title="Googlers against warfare technology (Project Maven)" /><published>2018-04-12T13:30:00+02:00</published><updated>2018-04-12T13:30:00+02:00</updated><id>https://software-ethics-casebook.github.io//googlers-against-warfare-technology-project-maven</id><content type="html" xml:base="https://software-ethics-casebook.github.io//googlers-against-warfare-technology-project-maven">&lt;h1 id=&quot;april-2018-open-letter&quot;&gt;April 2018 Open Letter&lt;/h1&gt;
+
+&lt;p&gt;In April 2018, nearly four thousand Google employees signed an open letter petitioning CEO Sundar Pichai to stop the company’s involvement in a military drone program for the Pentagon. The letter states a clearly pacifist stance and an acknowledgement of the company’s moral responsability:&lt;/p&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;Dear Sundar,
-&lt;strong&gt;We believe that Google should not be in the business of war. Therefore we ask that Project Maven be cancelled, and that Google draft, publicize and
-enforce a clear policy stating that neither Google nor its contractors will
+&lt;strong&gt;We believe that Google should not be in the business of war. Therefore we ask that Project Maven be cancelled, and that Google draft, publicize and enforce a clear policy stating that neither Google nor its contractors will
 ever build warfare technology.&lt;/strong&gt;
 […]
 We cannot &lt;strong&gt;outsource the moral responsibility of our technologies to third parties&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;h1 id=&quot;employee-resignations&quot;&gt;Employee Resignations&lt;/h1&gt;
+
+&lt;p&gt;In May 2018, “about a dozen” Google employees resign in protest, according to Gizmodo.&lt;/p&gt;
+
+&lt;h1 id=&quot;open-letter-in-support-of-google-employees-and-tech-workers&quot;&gt;Open Letter in Support of Google Employees and Tech Workers&lt;/h1&gt;
+
+&lt;p&gt;A group of more than one thousand AI researchers signed an open letter to Google executives, asking Google to terminate its Project Maven contract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Should Google decide to use global internet users’ personal data for military purposes, it would violate the public trust that is fundamental to its business by putting its users’ lives and human rights in jeopardy. The responsibilities of global companies like Google must be commensurate with the transnational makeup of their users. The DoD contracts under consideration by Google, and similar contracts already in place at Microsoft and Amazon, signal a dangerous alliance between the private tech industry, currently in possession of vast quantities of sensitive personal data collected from people across the globe, and one country’s military. They also signal a failure to engage with global civil society and diplomatic institutions that have already highlighted the ethical stakes of these technologies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;google-change-of-objectives-for-ai-applications&quot;&gt;Google Change of Objectives for AI Applications&lt;/h1&gt;
+
+&lt;p&gt;In June 2018, Google CEO Sundar Pichai publishes a blog post clarifying Google’s “Objectives for AI applications”. Among the application areas the company will not “design or deploy” AI in, is included:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Weapons or other technologies whose principal purpose or implementation is to cause or directly facilitate injury to people.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;h2 id=&quot;source&quot;&gt;Source&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://static01.nyt.com/files/2018/technology/googleletter.pdf&quot;&gt;https://static01.nyt.com/files/2018/technology/googleletter.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;assets/googlers-letter-against-maven.pdf&quot;&gt;Open Letter to Sundar Pichai&lt;/a&gt;. Retrieved April 12, 2018.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gizmodo.com/google-employees-resign-in-protest-against-pentagon-con-1825729300&quot;&gt;“Google Employees Resign in Protest Against Pentagon Contract”&lt;/a&gt;. &lt;em&gt;Gizmodo&lt;/em&gt;. May 14, 2018. Retrieved June 7, 2018.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.icrac.net/open-letter-in-support-of-google-employees-and-tech-workers/&quot;&gt;“Open Letter in Support of Google Employees and Tech Workers”&lt;/a&gt;. Retrieved June 7, 2018.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.google/topics/ai/ai-principles/amp/&quot;&gt;“AI at Google: our principles”&lt;/a&gt;. June 7, 2018. Retrieved June 9, 2018.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
@@ -17,7 +59,7 @@ We cannot &lt;strong&gt;outsource the moral responsibility of our technologies t
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533&quot;&gt;https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html&quot;&gt;https://www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="case" /><category term="position" /><category term="warfare" /><summary type="html">Dear Sundar, We believe that Google should not be in the business of war. Therefore we ask that Project Maven be cancelled, and that Google draft, publicize and enforce a clear policy stating that neither Google nor its contractors will ever build warfare technology. […] We cannot outsource the moral responsibility of our technologies to third parties</summary></entry><entry><title type="html">An Open Letter from US Researchers in Cryptography and Information Security</title><link href="https://software-ethics-casebook.github.io//an-open-letter-from-us-researchers-in-cryptography-and-information-security" rel="alternate" type="text/html" title="An Open Letter from US Researchers in Cryptography and Information Security" /><published>2018-04-06T19:00:00+02:00</published><updated>2018-04-06T19:00:00+02:00</updated><id>https://software-ethics-casebook.github.io//an-open-letter-from-us-researchers-in-cryptography-and-information-security</id><content type="html" xml:base="https://software-ethics-casebook.github.io//an-open-letter-from-us-researchers-in-cryptography-and-information-security">&lt;blockquote&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="case" /><category term="position" /><category term="warfare" /><summary type="html">April 2018 Open Letter</summary></entry><entry><title type="html">An Open Letter from US Researchers in Cryptography and Information Security</title><link href="https://software-ethics-casebook.github.io//an-open-letter-from-us-researchers-in-cryptography-and-information-security" rel="alternate" type="text/html" title="An Open Letter from US Researchers in Cryptography and Information Security" /><published>2018-04-06T19:00:00+02:00</published><updated>2018-04-06T19:00:00+02:00</updated><id>https://software-ethics-casebook.github.io//an-open-letter-from-us-researchers-in-cryptography-and-information-security</id><content type="html" xml:base="https://software-ethics-casebook.github.io//an-open-letter-from-us-researchers-in-cryptography-and-information-security">&lt;blockquote&gt;
   &lt;p&gt;Media reports since last June have revealed that the US government conducts domestic and international surveillance on a massive scale, that it engages in deliberate and covert weakening of Internet security standards, and that it pressures US technology companies to deploy backdoors and other data-collection features. As leading members of the US cryptography and information-security research communities, we deplore these practices and urge that they be changed. […]
 The choice is not whether to allow the NSA to spy. The choice is between a communications infrastructure that is vulnerable to attack at its core and one that, by default, is intrinsically secure for its users. Every country, including our own, must give intelligence and law-enforcement authorities the means to pursue terrorists and criminals, but we can do so without fundamentally undermining the security that enables commerce, entertainment, personal communication, and other aspects of 21st-century life.&lt;/p&gt;
 &lt;/blockquote&gt;
